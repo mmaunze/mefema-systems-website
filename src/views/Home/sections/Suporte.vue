@@ -6,7 +6,7 @@
       class="items-center max-w-screen-xl px-4 py-8 mx-auto lg:grid lg:grid-cols-4 lg:gap-16 xl:gap-24 lg:py-24 lg:px-6"
     >
       <div class="col-span-2 mb-8">
-        <p class="text-lg font-medium text-purple-600 dark:text-purple-500">
+        <p class="text-lg font-medium text-orange-600 dark:text-orange-500">
           Suporte Técnico Especializado
         </p>
         <h2
@@ -25,7 +25,7 @@
           <div>
             <a
               href="#"
-              class="inline-flex items-center text-base font-medium text-purple-600 hover:text-purple-800 dark:text-purple-500 dark:hover:text-purple-700"
+              class="inline-flex items-center text-base font-medium text-orange-600 hover:text-orange-800 dark:text-orange-500 dark:hover:text-orange-700"
             >
               Suporte Tecnico Especializado
               <svg
@@ -45,7 +45,7 @@
           <div>
             <a
               href="#"
-              class="inline-flex items-center text-base font-medium text-purple-600 hover:text-purple-800 dark:text-purple-500 dark:hover:text-purple-700"
+              class="inline-flex items-center text-base font-medium text-orange-600 hover:text-orange-800 dark:text-orange-500 dark:hover:text-orange-700"
             >
               Consultoria Personalizada em IT
 
@@ -70,7 +70,7 @@
       >
         <div>
           <svg
-            class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+            class="w-10 h-10 mb-2 text-orange-600 md:w-12 md:h-12 dark:text-orange-500"
             fill="currentColor"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
@@ -91,7 +91,7 @@
         </div>
         <div>
           <svg
-            class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+            class="w-10 h-10 mb-2 text-orange-600 md:w-12 md:h-12 dark:text-orange-500"
             fill="currentColor"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
@@ -110,7 +110,7 @@
         </div>
         <div>
           <svg
-            class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+            class="w-10 h-10 mb-2 text-orange-600 md:w-12 md:h-12 dark:text-orange-500"
             fill="currentColor"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
@@ -131,7 +131,7 @@
         </div>
         <div>
           <svg
-            class="w-10 h-10 mb-2 text-purple-600 md:w-12 md:h-12 dark:text-purple-500"
+            class="w-10 h-10 mb-2 text-orange-600 md:w-12 md:h-12 dark:text-orange-500"
             fill="currentColor"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"

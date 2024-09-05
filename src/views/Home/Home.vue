@@ -1,14 +1,17 @@
 <script setup>
 import Hero from "@/views/Home/sections/Hero.vue";
-import Logos from "@/views/Home/sections/Logos.vue";
 import Software from "@/views/Home/sections/Software.vue";
+import Softwares from "@/views/Home/sections/Softwares.vue";
 import Suporte from "@/views/Home/sections/Suporte.vue";
 import Portfolio from "@/views/Home/sections/Portfolio.vue";
+import Blank from "@/views/Home/sections/Blank.vue";
+
 </script>
 
 <template>
   <Hero />
-  <Logos />
+  <Softwares />
+  <Blank />
   <Software />
   <Suporte />
   <Portfolio />
