@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <!-- Start block -->
-  <section class="bg-white dark:bg-gray-900 mt-8">
+  <section class="bg-gray-50 dark:bg-gray-800  mt-8">
     <div
       class="items-center max-w-screen-xl px-4 py-8 mx-auto lg:grid lg:gap-16 xl:gap-24 lg:py-24 lg:px-6"
     >

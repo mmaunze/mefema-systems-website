@@ -34,19 +34,14 @@
         
       </div>
       <div class="col-span-2 mb-8">
-        <p class="text-lg font-medium text-orange-600 dark:text-orange-500">
-          Valores
-        </p>
-        <h2
-          class="mt-3 mb-4 text-3xl font-extrabold tracking-tight text-gray-900 md:text-3xl dark:text-white"
-        >
- 
-        </h2>
-        
         <ul
         role="list"
-        class="pt-8 space-y-5 border-t border-gray-200 my-7 dark:border-gray-700"
+        class="pt-4 space-y-5 "
       >
+      <p class="text-lg font-medium text-orange-600 dark:text-orange-500">
+        Valores
+      </p>
+      
         <li class="flex space-x-3">
           <!-- Icon -->
           <svg

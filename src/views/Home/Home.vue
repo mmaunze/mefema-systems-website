@@ -4,7 +4,7 @@ import Software from "@/views/Home/sections/Software.vue";
 import Softwares from "@/views/Home/sections/Softwares.vue";
 import Suporte from "@/views/Home/sections/Suporte.vue";
 import Portfolio from "@/views/Home/sections/Portfolio.vue";
-import Blank from "@/views/Home/sections/Blank.vue";
+import Blank from "@/components/Blank.vue";
 
 </script>
 
@@ -15,4 +15,5 @@ import Blank from "@/views/Home/sections/Blank.vue";
   <Software />
   <Suporte />
   <Portfolio />
+  <Blank />
 </template>
