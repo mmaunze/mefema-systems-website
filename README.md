@@ -9,6 +9,7 @@ Mefema Systems oferece soluções tecnológicas inovadoras para empresas que pro
 - **Website**: [www.mefemasys.co.mz](http://www.mefemasys.co.mz)
 - **Tecnologias Utilizadas**: Vue.js + Vite
 - **Licença**: MIT
+![Home Page](public/demo/image.png)
 
 ## Funcionalidades
 
